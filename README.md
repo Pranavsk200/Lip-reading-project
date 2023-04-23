@@ -8,5 +8,26 @@ The objective of this machine learning project is to develop a real-time system 
 
 # Technologies Used
 
- Markup : * Bullet list
-          
+* Python 3
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+ 
+ # Installation 
+ 
+ 1. Clone this repository
+ 2. Install the required packages using the following command:
+[pip install -r requirements.txt]
+
+# Usage 
+1. Navigate to the app/streamlitapp.py in comand prompt or terminal
+2. Run the application using following command:
+[streamlit run streamlitapp.py]
+
+# Result
+1. select the video you want to predict words 
+2. The video is converted into .git formet then the wordes are perdicted 
+
+# Conclusion
+
+The machine learning project discussed here aims to create a robust and dependable system for recognizing spoken words from video inputs in real-time, without the need for audio. The process involves converting the video input into a compressed gif format, which is then passed to a trained machine learning model. The model utilizes advanced algorithms such as Conv3d, MaxPool3D, and LSTM networks to make accurate predictions on spoken words. The project's ultimate objective is to develop a reliable system that can accurately detect spoken words from video inputs, ensuring its dependability in various applications.
