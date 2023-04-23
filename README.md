@@ -6,3 +6,7 @@ Once the video input has been transformed into a gif format, it is passed to the
 
 The objective of this machine learning project is to develop a real-time system that can accurately detect spoken words from video inputs even in the absence of audio, thereby ensuring its reliability.
 
+# Technologies Used
+
+ Markup : * Bullet list
+          
