@@ -1,5 +1,4 @@
 # Lip-reading-project
-Sure, here's an elaboration:
 
 The process being referred to here is a machine learning project that involves the recognition of spoken words from video inputs. The first step in this process is to read the video input, which is typically a sequence of frames captured from a camera or video file. To reduce the amount of data to be processed, the frames are converted into a compressed format known as Graphics Interchange Format (.gif).
 
