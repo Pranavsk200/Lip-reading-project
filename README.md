@@ -17,12 +17,12 @@ The objective of this machine learning project is to develop a real-time system 
  
  1. Clone this repository
  2. Install the required packages using the following command:
-[pip install -r requirements.txt]
+```pip install -r requirements.txt```
 
 # Usage 
 1. Navigate to the app/streamlitapp.py in comand prompt or terminal
 2. Run the application using following command:
-[streamlit run streamlitapp.py]
+```streamlit run streamlitapp.py```
 
 # Result
 1. select the video you want to predict words 
